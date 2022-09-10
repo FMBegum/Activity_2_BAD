@@ -3,6 +3,7 @@
 
 # In[2]:
 
+#create the node class
 
 class Node:
     def __init__(self, dataval):
